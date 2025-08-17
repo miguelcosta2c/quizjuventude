@@ -1,8 +1,8 @@
 function getPerguntas() {
   return [
     {
-      pergunta: "Com quantos anos alguém pode votar?",
-      respostas: ["15", "16", "18", "20"],
+      pergunta: "Qual é o melhor amigo do homem?",
+      respostas: ["Cachorro", "Cerveja", "Makita", "Namorada"],
       correta: 2,
     },
     {
