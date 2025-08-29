@@ -55,5 +55,60 @@ function getPerguntas() {
       ],
       correta: 3,
     },
+    {
+      pergunta:
+        "Qual dos seguintes comportamentos é um sinal de que a 'adultização' pode estar ocorrendo na vida de uma criança nas redes sociais?",
+      respostas: [
+        "Ela dedica tempo para brincadeiras ao ar livre e jogos com amigos.",
+        "Ela utiliza aplicativos de redes sociais para fins educativos com a supervisão de um adulto.",
+        "Ela se concentra em atingir metas de 'engajamento' e 'popularidade' em vez de em atividades próprias da sua idade.",
+        "Ela compartilha desenhos e histórias criadas por ela mesma com a família e amigos próximos.",
+      ],
+      correta: 2,
+    },
+    {
+      pergunta:
+        "O que a 'cultura de performance' nas redes sociais representa para a saúde mental de crianças e adolescentes?",
+      respostas: [
+        "Um ambiente seguro para expressar sua identidade de forma autêntica e livre de julgamentos.",
+        "Um estímulo para a criação de conteúdo educativo e culturalmente enriquecedor.",
+        "Uma ferramenta para desenvolver habilidades de comunicação e negociação.",
+        "Um fator de pressão para alcançar padrões de vida e beleza irreais, levando a ansiedade e baixa autoestima.",
+      ],
+      correta: 3,
+    },
+    {
+      pergunta:
+        "Qual é a principal diferença entre a exposição natural da vida familiar e a exposição comercial de crianças nas redes sociais?",
+      respostas: [
+        "A exposição natural ocorre apenas em perfis privados, enquanto a comercial é sempre em perfis públicos.",
+        "Na exposição natural, o foco é na partilha de momentos de família, enquanto na comercial, a criança é transformada em um produto.",
+        "A exposição natural não usa filtros ou edição de imagens, ao contrário da comercial.",
+        "A exposição natural é mais comum entre adolescentes, e a comercial, entre crianças pequenas.",
+      ],
+      correta: 1,
+    },
+    {
+      pergunta:
+        "A que tipo de 'conteúdo impróprio' as crianças expostas nas redes sociais podem ser vulneráveis?",
+      respostas: [
+        "Conteúdo com linguagens complexas ou temas acadêmicos.",
+        "Conteúdo que promove atividades físicas e alimentação saudável.",
+        "Conteúdo sexualizado, violento ou que promove comportamentos de risco.",
+        "Conteúdo que mostra a rotina diária de outras famílias.",
+      ],
+      correta: 2,
+    },
+    {
+      pergunta:
+        "Além da exploração comercial, qual outra forma de 'exploração' relacionada à imagem da criança pode ocorrer nas redes sociais?",
+      respostas: [
+        "A exploração de seus talentos artísticos para que ela possa desenvolver suas habilidades.",
+        "O uso da imagem da criança por criminosos para a prática de crimes como pedofilia.",
+        "A utilização de sua imagem para promover campanhas de caridade.",
+        "A exibição de suas notas escolares para motivar outros alunos.",
+      ],
+      correta: 1,
+    },
   ];
 }
