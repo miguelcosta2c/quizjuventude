@@ -28,10 +28,13 @@
 
   window.addEventListener("keydown", function (e) {
     if (!jogando) {
-      if (e.key === "Enter" && popupOverlay.style.display === "none") {
+      if (
+        (e.key === "Enter" && !popupOverlay.style.display) ||
+        popupOverlay.style.display === "none"
+      ) {
         quizMode();
       } else if (
-        ["Enter", "Escape", "Backspace"].includes(e.key) &&
+        ["Escape", "Backspace"].includes(e.key) &&
         popupOverlay.style.display === "flex"
       ) {
         closePopup();
